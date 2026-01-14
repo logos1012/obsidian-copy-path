@@ -1,0 +1,10 @@
+{
+  "id": "copy-path",
+  "name": "Copy Path",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Copy file paths to clipboard from active note or selected files in navigation",
+  "author": "jake",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
