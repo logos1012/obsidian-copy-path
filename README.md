@@ -22,7 +22,7 @@ Paths are copied in the following format:
 
 1. Install the [BRAT plugin](https://github.com/TfTHacker/obsidian42-brat)
 2. In BRAT settings, click "Add Beta Plugin"
-3. Enter the repository URL: `jake/obsidian-copy-path`
+3. Enter the repository URL: `logos1012/obsidian-copy-path`
 4. Enable the plugin in Community Plugins settings
 
 ### Manual Installation
